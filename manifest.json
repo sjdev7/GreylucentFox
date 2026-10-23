@@ -1,0 +1,37 @@
+{
+    "manifest_version": 2,
+    "version": "1.1",
+    "name": "GreylucentFox",
+    "theme": {
+        "images": {},
+        "colors": {
+            "frame": "rgb(18, 18, 18)",
+            "icons": "rgb(195, 195, 195)",
+            "bookmark_text": "rgb(185, 185, 185)",
+            "icons_attention": "rgba(10, 255, 243, 1)",
+            "toolbar": "rgba(18, 18, 18, 0.6)",
+            "toolbar_text": "rgb(160, 160, 160)",
+            "toolbar_field": "rgba(18, 18, 18, 0)",
+            "toolbar_field_border": "rgba(18, 18, 18, 0)",
+            "toolbar_field_text": "rgb(130, 130, 130)",
+            "toolbar_field_text_focus": "rgb(160, 160, 160)",
+            "toolbar_field_highlight": "rgb(13, 49, 56)",
+            "toolbar_field_highlight_text": "rgb(240, 240, 240)",
+            "toolbar_top_separator": "rgb(18, 18, 18)",
+            "tab_text": "rgb(230, 230, 230)",
+            "tab_background_text": "rgb(109, 109, 109)",
+            "tab_line": "rgb(18, 18, 18)",
+            "tab_loading": "rgb(18, 18, 18)",
+            "tab_selected": "rgb(35, 35, 35)",
+            "popup": "rgb(20, 22, 23)",
+            "popup_border": "rgba(20, 22, 23, 0)",
+            "popup_text": "rgb(192, 192, 192)",
+            "popup_highlight_text": "rgb(219, 219, 219)",
+            "popup_highlight": "rgb(13, 49, 56)",
+            "sidebar": "rgb(18, 18, 18)",
+            "sidebar_border": "rgba(18, 18, 18, 0.6)",
+            "sidebar_text": "rgb(185, 185, 185)",
+            "sidebar_highlight": "rgb(13, 49, 56)"
+        }
+    }
+}
